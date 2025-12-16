@@ -1,0 +1,16 @@
+{
+  "name": "membresia",
+  "version": "1.0.0",
+  "description": "Membresia é um projeto pessoal desenvolvido para aplicar na prática os conhecimentos que venho adquirindo em programação e, ao mesmo tempo, resolver um problema real do dia a dia da secretaria da igreja da qual faço parte.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
